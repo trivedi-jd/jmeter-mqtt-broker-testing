@@ -4,7 +4,7 @@ Performing various tests on an MQTT broker to tests in performance when faced wi
 ## Prerequisites
 - JMeter 3.2 or above
 - MQTT Jmeter plugin installed
-- MQTT Broker (Plubic/Private)
+- MQTT Broker (Public/Private)
 
 ## Using the tests
 ## Opening the tests in Jmeter
